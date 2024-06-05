@@ -46,7 +46,7 @@ After training, the model's performance can be evaluated by visualizing predicti
 
 ## What's Next?
 
-This model is still under development. The next steps involve evaluating the quality of the generated model by applying metrics to our validation dataset. After analyzing the performance and accuracy of the model training, I will need to address any related issues found. For example, I'll need to find a way to prevent overfitting.
+This model is still under development. The next steps involve evaluating the quality of the generated model by applying metrics to our validation dataset. After analyzing the performance and accuracy of the model training, I will need to address any related issues found. For example, to find a way to prevent overfitting.
 
 Additionally, I plan to apply transfer learning to this model, leveraging pre-trained models in TensorFlow for similar training tasks.
 
