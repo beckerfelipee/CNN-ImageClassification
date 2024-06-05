@@ -29,7 +29,7 @@ The model is trained using the Adam optimizer with binary cross-entropy loss. Tr
 
 ## Usage
 
-To use the model, you can either [download the model]() and load it in your code using the following command:
+To use the model, you can either [download the model](https://github.com/beckerfelipee/CNN-ImageClassification/releases/download/v1.0/cats_and_dogs_model_v1.0.zip) and load it in your code using the following command:
 
 ```bash
 model = tf.keras.models.load_model('path/to/model')
