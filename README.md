@@ -1,4 +1,4 @@
-# CNN-ImageRecognition
+# Cats or Dogs? CNN Image Classification
 
 ## Overview
 
