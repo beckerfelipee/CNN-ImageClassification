@@ -1,5 +1,8 @@
 # Cats or Dogs? CNN Image Classification
 
+<img src="https://github.com/beckerfelipee/CNN-ImageClassification/assets/94445094/e2525b32-0a72-4f3a-bc5a-5e59842b15cc" alt="ExamplePot" width="500" height="500">
+
+
 ## Overview
 
 This is a Convolutional Neural Network (CNN) model developed for educational purposes using TensorFlow and Keras to create, train, and evaluate deep neural networks. The model is designed to classify images of cats and dogs, leveraging a dataset provided by TensorFlow.
