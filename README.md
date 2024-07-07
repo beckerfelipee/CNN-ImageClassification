@@ -1,4 +1,4 @@
-# Cats or Dogs? CNN Image Classification
+# Cats or Dogs? CNN Image Classification 
 
 <img src="https://github.com/beckerfelipee/CNN-ImageClassification/assets/94445094/e2525b32-0a72-4f3a-bc5a-5e59842b15cc" alt="ExamplePot" width="500" height="500">
 
